@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+RGB (75, 65, 60) - #4b413c
+RGB (180, 171, 158) - #b4ab9e
+RGB (181, 172, 160) - #b5aca0
+RGB (187, 184, 174) - #bbb8ae
+RGB (185, 181, 171) - #b9b5ab

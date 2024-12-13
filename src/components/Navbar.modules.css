@@ -1,3 +1,37 @@
-.main {
-  background: green;
+.main  {
+  background: #4b413c;
+  color: #b4ab9e;
+  display: flex;
+  border: 1px solid red;
+}
+
+.logo {
+  padding: 1.5rem ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.left-itens {
+  display: flex;
+  gap: 1rem;
+  padding: 1.5rem;
+  align-items: center;
+
+}
+
+.left-itens a {
+  text-decoration: none;
+  color: #b4ab9e;
+}
+
+.left-itens a:hover {
+  color: antiquewhite;
+}
+
+.logout {
+  border: 1px solid #b5aca0;
+  padding: 6px;
+  border-radius: 8px;
 }
